@@ -1,0 +1,19 @@
+# Generic
+.DS_Store
+*.log
+.idea/
+.vscode/
+node_modules/
+
+# Android
+/android/.gradle
+/android/local.properties
+/android/build/
+
+# iOS
+/ios/Pods/
+/ios/DerivedData/
+
+# Desktop build artifacts (example)
+build/
+dist/
