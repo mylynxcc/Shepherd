@@ -1,0 +1,2 @@
+rootProject.name = "shepherd-android"
+include ':app'
